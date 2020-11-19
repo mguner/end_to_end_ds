@@ -24,7 +24,7 @@ A counties housing price prediction is very useful for determining tax estimates
 - Data: Includes data
 - Notebooks
     + Getting Data.ipynb : Gets the data from an online source
-    + EDA.ipynb : Explore data
+    + [EDA.ipynb](https://github.com/mguner/end_to_end_ds/blob/main/notebooks/EDA.ipynb) : Explore data
     + Report.ipynb: This is the notebook submitted as part of DATA601 Final Project. Includes a high level summary of the work that we have done for three weeks period.
 - Extra:
     + Yaml file for cloning the environment and reproducibility.
