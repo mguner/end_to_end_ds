@@ -1,6 +1,6 @@
 # Title: My Awesome DATA601 Final Project!!
 
-In this project I will implement the thing we learned in DATA601
+In this project I will implement the thing we learned in DATA601. Here is a [link](https://docs.python.org/3/using/windows.html)
 
 # Introduction
 
@@ -24,7 +24,7 @@ A counties housing price prediction is very useful for determining tax estimates
 - Data: Includes data
 - Notebooks
     + Getting Data.ipynb : Gets the data from an online source
-    + EDA.ipynb : Explore data
+    + [EDA.ipynb](https://github.com/mguner/end_to_end_ds/blob/main/notebooks/EDA.ipynb) : Explore data
     + Report.ipynb: This is the notebook submitted as part of DATA601 Final Project. Includes a high level summary of the work that we have done for three weeks period.
 - Extra:
     + Yaml file for cloning the environment and reproducibility.
@@ -34,6 +34,8 @@ A counties housing price prediction is very useful for determining tax estimates
 - Yaml file is provided in the folder `extra`.
 
 # Dataset
+
+If you want to access the data, please go to `Notebooks` folder and run getting_data.ipynb notebook. This code will go to the source of the data and load it to your local computer under dataset folder. 
 
 This is a dataset obtained from the StatLib repository. Here is the included description:
 
